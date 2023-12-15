@@ -1,0 +1,20 @@
+[2023-12-06T18:10:04.290+0500] {processor.py:157} INFO - Started process (PID=16844) to work on /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py
+[2023-12-06T18:10:04.291+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py for tasks to queue
+[2023-12-06T18:10:04.291+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:10:04.291+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py
+[2023-12-06T18:10:04.502+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py
+[2023-12-06T18:10:04.506+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py took 0.218 seconds
+[2023-12-06T18:10:52.489+0500] {processor.py:157} INFO - Started process (PID=16963) to work on /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py
+[2023-12-06T18:10:52.498+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py for tasks to queue
+[2023-12-06T18:10:52.500+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:10:52.499+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py
+[2023-12-06T18:10:52.789+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py
+[2023-12-06T18:10:52.793+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py took 0.306 seconds
+[2023-12-06T18:11:28.574+0500] {processor.py:157} INFO - Started process (PID=17023) to work on /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py
+[2023-12-06T18:11:28.583+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py for tasks to queue
+[2023-12-06T18:11:28.584+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:11:28.584+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py
+[2023-12-06T18:11:28.876+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py
+[2023-12-06T18:11:28.879+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py took 0.308 seconds
+[2023-12-06T18:12:03.657+0500] {processor.py:157} INFO - Started process (PID=17136) to work on /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py
+[2023-12-06T18:12:03.666+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py for tasks to queue
+[2023-12-06T18:12:03.667+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:12:03.667+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py
+[2023-12-06T18:12:03.965+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py
+[2023-12-06T18:12:03.968+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/scraper/tutorials/tutorials/spiders/sc1.py took 0.315 seconds

@@ -1,0 +1,1250 @@
+[2023-12-06T17:07:46.621+0500] {processor.py:157} INFO - Started process (PID=6721) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:07:46.621+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:07:46.622+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:07:46.621+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:07:46.630+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:07:46.711+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:07:46.711+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:07:46.720+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:07:46.720+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-01-01T00:00:00+00:00, run_after=2023-01-02T00:00:00+00:00
+[2023-12-06T17:07:46.734+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.114 seconds
+[2023-12-06T17:08:34.440+0500] {processor.py:157} INFO - Started process (PID=7077) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:08:34.448+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:08:34.448+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:08:34.448+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:08:34.453+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:08:34.457+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:08:34.457+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:08:34.470+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:08:34.470+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-01-01T00:00:00+00:00, run_after=2023-01-02T00:00:00+00:00
+[2023-12-06T17:08:34.493+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.055 seconds
+[2023-12-06T17:08:58.632+0500] {processor.py:157} INFO - Started process (PID=7159) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:08:58.632+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:08:58.633+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:08:58.633+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:08:58.639+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:08:58.643+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:08:58.643+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:08:58.653+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:08:58.653+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-01-01T00:00:00+00:00, run_after=2023-01-02T00:00:00+00:00
+[2023-12-06T17:08:58.665+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.035 seconds
+[2023-12-06T17:10:19.584+0500] {processor.py:157} INFO - Started process (PID=7417) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:10:19.585+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:10:19.585+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:10:19.585+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:10:19.592+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:10:19.642+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:10:19.642+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:10:19.652+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:10:19.652+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-01-01T00:00:00+00:00, run_after=2023-01-02T00:00:00+00:00
+[2023-12-06T17:10:19.665+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.082 seconds
+[2023-12-06T17:11:05.968+0500] {processor.py:157} INFO - Started process (PID=7529) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:11:05.968+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:11:05.969+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:11:05.969+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:11:05.973+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:11:05.978+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:11:05.978+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:11:05.993+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:11:05.993+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-01-01T00:00:00+00:00, run_after=2023-01-02T00:00:00+00:00
+[2023-12-06T17:11:06.010+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.045 seconds
+[2023-12-06T17:11:42.078+0500] {processor.py:157} INFO - Started process (PID=7597) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:11:42.079+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:11:42.080+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:11:42.079+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:11:42.085+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:11:42.134+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:11:42.133+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:11:42.142+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:11:42.142+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-01-02T00:00:00+00:00, run_after=2023-01-03T00:00:00+00:00
+[2023-12-06T17:11:42.154+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.079 seconds
+[2023-12-06T17:12:27.367+0500] {processor.py:157} INFO - Started process (PID=7851) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:12:27.371+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:12:27.371+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:12:27.371+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:12:27.375+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:12:27.379+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:12:27.379+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:12:27.390+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:12:27.390+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-01-13T00:00:00+00:00, run_after=2023-01-14T00:00:00+00:00
+[2023-12-06T17:12:27.402+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.037 seconds
+[2023-12-06T17:13:04.840+0500] {processor.py:157} INFO - Started process (PID=7927) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:13:04.848+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:13:04.849+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:13:04.849+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:13:04.858+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:13:04.908+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:13:04.908+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:13:04.918+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:13:04.917+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-01-14T00:00:00+00:00, run_after=2023-01-15T00:00:00+00:00
+[2023-12-06T17:13:04.940+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.104 seconds
+[2023-12-06T17:13:39.938+0500] {processor.py:157} INFO - Started process (PID=8137) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:13:39.939+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:13:39.940+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:13:39.940+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:13:39.947+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:13:39.952+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:13:39.952+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:13:39.963+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:13:39.963+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-01-23T00:00:00+00:00, run_after=2023-01-24T00:00:00+00:00
+[2023-12-06T17:13:39.975+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.041 seconds
+[2023-12-06T17:14:15.875+0500] {processor.py:157} INFO - Started process (PID=8204) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:14:15.884+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:14:15.885+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:14:15.884+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:14:15.891+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:14:15.938+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:14:15.937+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:14:15.946+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:14:15.946+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-12-06T17:14:15.958+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.085 seconds
+[2023-12-06T17:14:59.127+0500] {processor.py:157} INFO - Started process (PID=8500) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:14:59.136+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:14:59.137+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:14:59.136+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:14:59.144+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:14:59.151+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:14:59.151+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:14:59.162+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:14:59.162+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-04T00:00:00+00:00, run_after=2023-02-05T00:00:00+00:00
+[2023-12-06T17:14:59.174+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.049 seconds
+[2023-12-06T17:15:36.206+0500] {processor.py:157} INFO - Started process (PID=8607) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:15:36.215+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:15:36.216+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:15:36.216+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:15:36.224+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:15:36.275+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:15:36.275+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:15:36.284+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:15:36.284+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-05T00:00:00+00:00, run_after=2023-02-06T00:00:00+00:00
+[2023-12-06T17:15:36.319+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.117 seconds
+[2023-12-06T17:16:11.314+0500] {processor.py:157} INFO - Started process (PID=8823) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:16:11.322+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:16:11.323+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:16:11.323+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:16:11.329+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:16:11.335+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:16:11.334+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:16:11.345+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:16:11.345+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-14T00:00:00+00:00, run_after=2023-02-15T00:00:00+00:00
+[2023-12-06T17:16:11.357+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.046 seconds
+[2023-12-06T17:16:45.066+0500] {processor.py:157} INFO - Started process (PID=8930) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:16:45.075+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:16:45.077+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:16:45.076+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:16:45.085+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:16:45.137+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:16:45.137+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:16:45.147+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:16:45.146+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-15T00:00:00+00:00, run_after=2023-02-16T00:00:00+00:00
+[2023-12-06T17:16:45.164+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.103 seconds
+[2023-12-06T17:17:18.398+0500] {processor.py:157} INFO - Started process (PID=9138) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:17:18.407+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:17:18.407+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:17:18.407+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:17:18.413+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:17:18.418+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:17:18.418+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:17:18.430+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:17:18.430+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-24T00:00:00+00:00, run_after=2023-02-25T00:00:00+00:00
+[2023-12-06T17:17:18.467+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.071 seconds
+[2023-12-06T17:17:51.314+0500] {processor.py:157} INFO - Started process (PID=9234) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:17:51.314+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:17:51.315+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:17:51.315+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:17:51.318+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:17:51.375+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:17:51.375+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:17:51.385+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:17:51.385+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-25T00:00:00+00:00, run_after=2023-02-26T00:00:00+00:00
+[2023-12-06T17:17:51.402+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.089 seconds
+[2023-12-06T17:18:26.790+0500] {processor.py:157} INFO - Started process (PID=9289) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:18:26.798+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:18:26.799+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:18:26.799+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:18:26.808+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:18:26.818+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:18:26.818+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:18:26.828+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:18:26.828+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-25T00:00:00+00:00, run_after=2023-02-26T00:00:00+00:00
+[2023-12-06T17:18:26.855+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.069 seconds
+[2023-12-06T17:18:59.064+0500] {processor.py:157} INFO - Started process (PID=9349) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:18:59.073+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:18:59.074+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:18:59.074+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:18:59.082+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:18:59.089+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:18:59.088+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:18:59.100+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:18:59.100+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-25T00:00:00+00:00, run_after=2023-02-26T00:00:00+00:00
+[2023-12-06T17:18:59.117+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.056 seconds
+[2023-12-06T17:19:33.269+0500] {processor.py:157} INFO - Started process (PID=9412) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:19:33.271+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:19:33.273+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:19:33.272+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:19:33.280+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:19:33.329+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:19:33.329+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:19:33.339+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:19:33.339+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-25T00:00:00+00:00, run_after=2023-02-26T00:00:00+00:00
+[2023-12-06T17:19:33.351+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.085 seconds
+[2023-12-06T17:20:07.503+0500] {processor.py:157} INFO - Started process (PID=9459) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:20:07.512+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:20:07.513+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:20:07.513+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:20:07.519+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:20:07.529+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:20:07.529+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:20:07.539+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:20:07.539+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-25T00:00:00+00:00, run_after=2023-02-26T00:00:00+00:00
+[2023-12-06T17:20:07.554+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T17:20:38.927+0500] {processor.py:157} INFO - Started process (PID=9517) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:20:38.936+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:20:38.937+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:20:38.937+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:20:38.943+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:20:38.947+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:20:38.947+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:20:38.958+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:20:38.957+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-25T00:00:00+00:00, run_after=2023-02-26T00:00:00+00:00
+[2023-12-06T17:20:38.996+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.070 seconds
+[2023-12-06T17:21:10.365+0500] {processor.py:157} INFO - Started process (PID=9609) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:21:10.373+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:21:10.374+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:21:10.374+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:21:10.383+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:21:10.435+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:21:10.435+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:21:10.446+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:21:10.446+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-25T00:00:00+00:00, run_after=2023-02-26T00:00:00+00:00
+[2023-12-06T17:21:10.459+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.096 seconds
+[2023-12-06T17:21:42.343+0500] {processor.py:157} INFO - Started process (PID=9662) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:21:42.351+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:21:42.352+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:21:42.352+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:21:42.361+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:21:42.371+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:21:42.371+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:21:42.381+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:21:42.381+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-25T00:00:00+00:00, run_after=2023-02-26T00:00:00+00:00
+[2023-12-06T17:21:42.393+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T17:22:15.787+0500] {processor.py:157} INFO - Started process (PID=9728) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:22:15.787+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:22:15.788+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:22:15.787+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:22:15.791+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:22:15.797+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:22:15.797+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:22:15.809+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:22:15.809+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-25T00:00:00+00:00, run_after=2023-02-26T00:00:00+00:00
+[2023-12-06T17:22:15.822+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.037 seconds
+[2023-12-06T17:22:59.549+0500] {processor.py:157} INFO - Started process (PID=9815) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:22:59.557+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:22:59.558+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:22:59.557+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:22:59.566+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:22:59.616+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:22:59.616+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:22:59.625+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:22:59.625+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-25T00:00:00+00:00, run_after=2023-02-26T00:00:00+00:00
+[2023-12-06T17:22:59.653+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.106 seconds
+[2023-12-06T17:23:30.272+0500] {processor.py:157} INFO - Started process (PID=9892) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:23:30.281+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:23:30.282+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:23:30.282+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:23:30.291+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:23:30.301+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:23:30.301+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:23:30.312+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:23:30.312+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to 2023-02-25T00:00:00+00:00, run_after=2023-02-26T00:00:00+00:00
+[2023-12-06T17:23:30.339+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.069 seconds
+[2023-12-06T17:32:48.678+0500] {processor.py:157} INFO - Started process (PID=11551) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:32:48.679+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:32:48.679+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:32:48.679+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:32:48.686+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:32:48.741+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:32:48.741+0500] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-06T17:32:48.749+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:32:48.748+0500] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-06T17:32:48.754+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:32:48.754+0500] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-06T17:32:48.754+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:32:48.754+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:32:48.760+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:32:48.760+0500] {dag.py:2963} INFO - Creating ORM DAG for scrapy_airflow_integration
+[2023-12-06T17:32:48.765+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:32:48.764+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-01T00:00:00+00:00, run_after=2023-12-02T00:00:00+00:00
+[2023-12-06T17:32:48.775+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.099 seconds
+[2023-12-06T17:33:34.956+0500] {processor.py:157} INFO - Started process (PID=11709) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:33:34.957+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:33:34.958+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:33:34.958+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:33:34.965+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:33:34.974+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:33:34.974+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:33:34.984+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:33:34.984+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-01T00:00:00+00:00, run_after=2023-12-02T00:00:00+00:00
+[2023-12-06T17:33:34.996+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.044 seconds
+[2023-12-06T17:34:13.388+0500] {processor.py:157} INFO - Started process (PID=11829) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:34:13.397+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:34:13.398+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:34:13.397+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:34:13.406+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:34:13.416+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:34:13.416+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:34:13.427+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:34:13.427+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:34:13.443+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.058 seconds
+[2023-12-06T17:34:54.444+0500] {processor.py:157} INFO - Started process (PID=11915) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:34:54.453+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:34:54.454+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:34:54.454+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:34:54.462+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:34:54.472+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:34:54.471+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:34:54.482+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:34:54.482+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:34:54.495+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T17:35:26.487+0500] {processor.py:157} INFO - Started process (PID=11964) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:35:26.487+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:35:26.488+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:35:26.488+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:35:26.492+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:35:26.502+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:35:26.501+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:35:26.513+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:35:26.513+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:35:26.524+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.039 seconds
+[2023-12-06T17:36:11.700+0500] {processor.py:157} INFO - Started process (PID=12066) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:36:11.701+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:36:11.702+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:36:11.701+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:36:11.705+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:36:11.733+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:36:11.733+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:36:11.746+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:36:11.746+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:36:11.759+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.061 seconds
+[2023-12-06T17:36:43.953+0500] {processor.py:157} INFO - Started process (PID=12110) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:36:43.962+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:36:43.963+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:36:43.962+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:36:43.971+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:36:43.982+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:36:43.982+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:36:43.993+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:36:43.993+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:36:44.004+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.056 seconds
+[2023-12-06T17:37:15.492+0500] {processor.py:157} INFO - Started process (PID=12159) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:37:15.500+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:37:15.502+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:37:15.501+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:37:15.510+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:37:15.521+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:37:15.521+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:37:15.531+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:37:15.531+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:37:15.561+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.072 seconds
+[2023-12-06T17:37:49.454+0500] {processor.py:157} INFO - Started process (PID=12222) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:37:49.456+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:37:49.457+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:37:49.456+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:37:49.463+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:37:49.473+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:37:49.473+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:37:49.483+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:37:49.483+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:37:49.511+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.061 seconds
+[2023-12-06T17:38:32.976+0500] {processor.py:157} INFO - Started process (PID=12338) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:38:32.985+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:38:32.985+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:38:32.985+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:38:32.989+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:38:32.996+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:38:32.996+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:38:33.008+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:38:33.008+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:38:33.020+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.045 seconds
+[2023-12-06T17:39:03.907+0500] {processor.py:157} INFO - Started process (PID=12375) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:39:03.915+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:39:03.916+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:39:03.916+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:39:03.925+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:39:03.935+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:39:03.935+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:39:03.945+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:39:03.945+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:39:03.957+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T17:39:38.765+0500] {processor.py:157} INFO - Started process (PID=12439) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:39:38.773+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:39:38.775+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:39:38.774+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:39:38.780+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:39:38.788+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:39:38.788+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:39:38.798+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:39:38.798+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:39:38.810+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.048 seconds
+[2023-12-06T17:40:10.307+0500] {processor.py:157} INFO - Started process (PID=12484) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:40:10.315+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:40:10.317+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:40:10.316+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:40:10.325+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:40:10.336+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:40:10.336+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:40:10.346+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:40:10.346+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:40:10.368+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.063 seconds
+[2023-12-06T17:40:42.859+0500] {processor.py:157} INFO - Started process (PID=12529) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:40:42.867+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:40:42.868+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:40:42.868+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:40:42.877+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:40:42.887+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:40:42.887+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:40:42.897+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:40:42.897+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:40:42.908+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T17:41:27.162+0500] {processor.py:157} INFO - Started process (PID=12588) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:41:27.170+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:41:27.172+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:41:27.171+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:41:27.180+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:41:27.191+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:41:27.191+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:41:27.201+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:41:27.201+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:41:27.213+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T17:42:00.955+0500] {processor.py:157} INFO - Started process (PID=12636) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:42:00.963+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:42:00.965+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:42:00.964+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:42:00.973+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:42:00.985+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:42:00.985+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:42:00.996+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:42:00.996+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:42:01.007+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T17:42:33.266+0500] {processor.py:157} INFO - Started process (PID=12683) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:42:33.274+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:42:33.276+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:42:33.275+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:42:33.281+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:42:33.289+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:42:33.289+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:42:33.299+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:42:33.299+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:42:33.320+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.056 seconds
+[2023-12-06T17:43:16.699+0500] {processor.py:157} INFO - Started process (PID=12741) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:43:16.707+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:43:16.708+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:43:16.708+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:43:16.714+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:43:16.722+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:43:16.722+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:43:16.731+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:43:16.731+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:43:16.743+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.046 seconds
+[2023-12-06T17:43:48.597+0500] {processor.py:157} INFO - Started process (PID=12777) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:43:48.605+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:43:48.607+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:43:48.606+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:43:48.612+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:43:48.620+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:43:48.620+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:43:48.630+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:43:48.630+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:43:48.641+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.046 seconds
+[2023-12-06T17:44:19.276+0500] {processor.py:157} INFO - Started process (PID=12822) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:44:19.284+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:44:19.286+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:44:19.285+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:44:19.294+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:44:19.305+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:44:19.305+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:44:19.315+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:44:19.315+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:44:19.326+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T17:45:02.227+0500] {processor.py:157} INFO - Started process (PID=12886) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:45:02.235+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:45:02.237+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:45:02.236+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:45:02.245+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:45:02.256+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:45:02.256+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:45:02.266+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:45:02.266+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:45:02.278+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T17:45:32.774+0500] {processor.py:157} INFO - Started process (PID=12928) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:45:32.782+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:45:32.783+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:45:32.783+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:45:32.792+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:45:32.803+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:45:32.802+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:45:32.812+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:45:32.812+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:45:32.823+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T17:46:04.253+0500] {processor.py:157} INFO - Started process (PID=12966) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:46:04.254+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:46:04.255+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:46:04.254+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:46:04.258+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:46:04.269+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:46:04.268+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:46:04.279+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:46:04.278+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:46:04.290+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.040 seconds
+[2023-12-06T17:46:34.812+0500] {processor.py:157} INFO - Started process (PID=13011) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:46:34.820+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:46:34.822+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:46:34.821+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:46:34.830+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:46:34.841+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:46:34.841+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:46:34.851+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:46:34.851+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:46:34.863+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T17:47:05.131+0500] {processor.py:157} INFO - Started process (PID=13053) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:47:05.139+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:47:05.140+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:47:05.140+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:47:05.146+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:47:05.154+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:47:05.154+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:47:05.164+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:47:05.164+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:47:05.175+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.046 seconds
+[2023-12-06T17:47:38.168+0500] {processor.py:157} INFO - Started process (PID=13091) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:47:38.169+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:47:38.170+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:47:38.170+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:47:38.173+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:47:38.180+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:47:38.180+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:47:38.190+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:47:38.190+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:47:38.217+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T17:48:19.391+0500] {processor.py:157} INFO - Started process (PID=13170) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:48:19.391+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:48:19.391+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:48:19.391+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:48:19.395+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:48:19.402+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:48:19.402+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:48:19.412+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:48:19.412+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:48:19.436+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.049 seconds
+[2023-12-06T17:48:51.958+0500] {processor.py:157} INFO - Started process (PID=13356) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:48:51.967+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:48:51.968+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:48:51.967+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:48:51.973+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:48:51.984+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:48:51.984+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:48:52.002+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:48:52.002+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:48:52.034+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.078 seconds
+[2023-12-06T17:49:23.403+0500] {processor.py:157} INFO - Started process (PID=13451) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:49:23.411+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:49:23.412+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:49:23.412+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:49:23.420+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:49:23.431+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:49:23.430+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:49:23.440+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:49:23.440+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:49:23.452+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.051 seconds
+[2023-12-06T17:49:54.332+0500] {processor.py:157} INFO - Started process (PID=13487) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:49:54.340+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:49:54.341+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:49:54.341+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:49:54.349+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:49:54.360+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:49:54.360+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:49:54.369+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:49:54.369+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:49:54.381+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T17:50:29.344+0500] {processor.py:157} INFO - Started process (PID=13538) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:50:29.353+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:50:29.354+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:50:29.353+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:50:29.362+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:50:29.373+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:50:29.373+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:50:29.383+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:50:29.383+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:50:29.394+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T17:51:02.945+0500] {processor.py:157} INFO - Started process (PID=13631) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:51:02.954+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:51:02.955+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:51:02.955+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:51:02.962+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:51:02.972+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:51:02.972+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:51:02.981+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:51:02.981+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:51:02.993+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.049 seconds
+[2023-12-06T17:51:35.022+0500] {processor.py:157} INFO - Started process (PID=13668) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:51:35.023+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:51:35.024+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:51:35.023+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:51:35.028+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:51:35.036+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:51:35.036+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:51:35.048+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:51:35.048+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:51:35.061+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.041 seconds
+[2023-12-06T17:52:10.230+0500] {processor.py:157} INFO - Started process (PID=13734) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:52:10.238+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:52:10.238+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:52:10.238+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:52:10.242+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:52:10.250+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:52:10.250+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:52:10.261+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:52:10.261+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:52:10.273+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.045 seconds
+[2023-12-06T17:52:43.394+0500] {processor.py:157} INFO - Started process (PID=13782) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:52:43.403+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:52:43.404+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:52:43.404+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:52:43.411+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:52:43.421+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:52:43.421+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:52:43.432+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:52:43.432+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:52:43.444+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T17:53:15.426+0500] {processor.py:157} INFO - Started process (PID=14030) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:53:15.427+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:53:15.428+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:53:15.427+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:53:15.431+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:53:15.440+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:53:15.440+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:53:15.451+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:53:15.450+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:53:15.462+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.038 seconds
+[2023-12-06T17:53:48.042+0500] {processor.py:157} INFO - Started process (PID=14072) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:53:48.044+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:53:48.045+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:53:48.044+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:53:48.052+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:53:48.060+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:53:48.060+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:53:48.070+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:53:48.070+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:53:48.084+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.046 seconds
+[2023-12-06T17:54:21.290+0500] {processor.py:157} INFO - Started process (PID=14337) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:54:21.299+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:54:21.300+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:54:21.300+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:54:21.307+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:54:21.318+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:54:21.318+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:54:21.329+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:54:21.329+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:54:21.341+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T17:55:05.348+0500] {processor.py:157} INFO - Started process (PID=14428) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:55:05.357+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:55:05.358+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:55:05.358+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:55:05.366+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:55:05.377+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:55:05.377+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:55:05.387+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:55:05.386+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:55:05.406+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.063 seconds
+[2023-12-06T17:55:34.324+0500] {processor.py:157} INFO - Started process (PID=14472) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:55:34.325+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:55:34.325+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:55:34.325+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:55:34.332+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:55:34.343+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:55:34.343+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:55:34.353+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:55:34.353+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:55:34.367+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.044 seconds
+[2023-12-06T17:57:02.682+0500] {processor.py:157} INFO - Started process (PID=14835) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:57:02.683+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:57:02.683+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:57:02.683+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:57:02.691+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:57:02.703+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:57:02.703+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:57:02.717+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:57:02.716+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:57:02.732+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T17:57:26.312+0500] {processor.py:157} INFO - Started process (PID=14896) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:57:26.313+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:57:26.313+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:57:26.313+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:57:26.319+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:57:26.330+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:57:26.330+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:57:26.340+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:57:26.340+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:57:26.353+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.042 seconds
+[2023-12-06T17:57:33.368+0500] {processor.py:157} INFO - Started process (PID=14905) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:57:33.368+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:57:33.369+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:57:33.368+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:57:33.375+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:57:33.385+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:57:33.385+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:57:33.395+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:57:33.395+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:57:33.407+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.041 seconds
+[2023-12-06T17:58:22.628+0500] {processor.py:157} INFO - Started process (PID=15020) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:58:22.637+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:58:22.638+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:58:22.637+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:58:22.645+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:58:22.655+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:58:22.655+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:58:22.666+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:58:22.666+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:58:22.688+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.064 seconds
+[2023-12-06T17:58:56.799+0500] {processor.py:157} INFO - Started process (PID=15076) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:58:56.808+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:58:56.809+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:58:56.808+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:58:56.817+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:58:56.827+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:58:56.827+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:58:56.837+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:58:56.837+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:58:56.849+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T17:59:33.353+0500] {processor.py:157} INFO - Started process (PID=15128) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:59:33.362+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T17:59:33.363+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:59:33.363+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:59:33.369+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T17:59:33.378+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:59:33.378+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T17:59:33.390+0500] {logging_mixin.py:154} INFO - [2023-12-06T17:59:33.390+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T17:59:33.405+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.056 seconds
+[2023-12-06T18:00:08.333+0500] {processor.py:157} INFO - Started process (PID=15206) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:00:08.342+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:00:08.343+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:00:08.342+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:00:08.350+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:00:08.360+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:00:08.360+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:00:08.371+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:00:08.371+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:00:08.383+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T18:00:43.146+0500] {processor.py:157} INFO - Started process (PID=15270) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:00:43.148+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:00:43.149+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:00:43.149+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:00:43.155+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:00:43.164+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:00:43.164+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:00:43.175+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:00:43.175+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:00:43.187+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.043 seconds
+[2023-12-06T18:01:16.987+0500] {processor.py:157} INFO - Started process (PID=15479) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:01:16.988+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:01:16.989+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:01:16.989+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:01:16.996+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:01:17.005+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:01:17.005+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:01:17.015+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:01:17.015+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:01:17.029+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.044 seconds
+[2023-12-06T18:01:53.200+0500] {processor.py:157} INFO - Started process (PID=15565) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:01:53.209+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:01:53.210+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:01:53.210+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:01:53.218+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:01:53.229+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:01:53.229+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:01:53.239+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:01:53.239+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:01:53.251+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.055 seconds
+[2023-12-06T18:02:28.407+0500] {processor.py:157} INFO - Started process (PID=15642) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:02:28.416+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:02:28.417+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:02:28.416+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:02:28.425+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:02:28.435+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:02:28.435+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:02:28.446+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:02:28.446+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:02:28.462+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.059 seconds
+[2023-12-06T18:03:01.315+0500] {processor.py:157} INFO - Started process (PID=15841) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:03:01.323+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:03:01.324+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:03:01.324+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:03:01.332+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:03:01.343+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:03:01.342+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:03:01.353+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:03:01.352+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:03:01.373+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.060 seconds
+[2023-12-06T18:03:36.533+0500] {processor.py:157} INFO - Started process (PID=15927) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:03:36.541+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:03:36.543+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:03:36.542+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:03:36.550+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:03:36.561+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:03:36.561+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:03:36.571+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:03:36.571+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:03:36.594+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.064 seconds
+[2023-12-06T18:04:13.817+0500] {processor.py:157} INFO - Started process (PID=15995) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:04:13.826+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:04:13.827+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:04:13.826+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:04:13.835+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:04:13.845+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:04:13.844+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:04:13.855+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:04:13.855+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:04:13.872+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.058 seconds
+[2023-12-06T18:04:48.618+0500] {processor.py:157} INFO - Started process (PID=16155) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:04:48.618+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:04:48.619+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:04:48.619+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:04:48.622+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:04:48.630+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:04:48.630+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:04:48.641+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:04:48.641+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:04:48.653+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.038 seconds
+[2023-12-06T18:05:23.781+0500] {processor.py:157} INFO - Started process (PID=16217) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:05:23.790+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:05:23.791+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:05:23.790+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:05:23.796+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:05:23.804+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:05:23.804+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:05:23.814+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:05:23.814+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:05:23.826+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.047 seconds
+[2023-12-06T18:05:58.163+0500] {processor.py:157} INFO - Started process (PID=16360) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:05:58.171+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:05:58.172+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:05:58.172+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:05:58.181+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:05:58.191+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:05:58.191+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:05:58.201+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:05:58.201+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:05:58.213+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T18:06:31.873+0500] {processor.py:157} INFO - Started process (PID=16438) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:06:31.874+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:06:31.874+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:06:31.874+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:06:31.877+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:06:31.885+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:06:31.885+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:06:31.895+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:06:31.895+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:06:31.906+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.036 seconds
+[2023-12-06T18:07:07.976+0500] {processor.py:157} INFO - Started process (PID=16526) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:07:07.985+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:07:07.986+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:07:07.985+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:07:07.993+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:07:08.005+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:07:08.005+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:07:08.016+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:07:08.016+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:07:08.028+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:07:39.838+0500] {processor.py:157} INFO - Started process (PID=16570) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:07:39.846+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:07:39.847+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:07:39.847+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:07:39.853+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:07:39.864+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:07:39.864+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:07:39.877+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:07:39.876+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:07:39.891+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.055 seconds
+[2023-12-06T18:08:10.748+0500] {processor.py:157} INFO - Started process (PID=16615) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:08:10.750+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:08:10.751+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:08:10.750+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:08:10.756+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:08:10.765+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:08:10.765+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:08:10.776+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:08:10.776+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:08:10.790+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.044 seconds
+[2023-12-06T18:08:44.777+0500] {processor.py:157} INFO - Started process (PID=16661) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:08:44.778+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:08:44.779+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:08:44.779+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:08:44.786+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:08:44.795+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:08:44.795+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:08:44.807+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:08:44.807+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:08:44.823+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.050 seconds
+[2023-12-06T18:09:18.826+0500] {processor.py:157} INFO - Started process (PID=16704) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:09:18.835+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:09:18.836+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:09:18.835+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:09:18.843+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:09:18.854+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:09:18.854+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:09:18.865+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:09:18.865+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:09:18.875+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:09:53.656+0500] {processor.py:157} INFO - Started process (PID=16834) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:09:53.664+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:09:53.666+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:09:53.665+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:09:53.673+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:09:53.684+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:09:53.684+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:09:53.694+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:09:53.694+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:09:53.706+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T18:10:03.120+0500] {processor.py:157} INFO - Started process (PID=16842) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:10:03.120+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:10:03.121+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:10:03.121+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:10:03.127+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:10:03.140+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:10:03.140+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:10:03.152+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:10:03.152+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:10:03.164+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.047 seconds
+[2023-12-06T18:10:51.338+0500] {processor.py:157} INFO - Started process (PID=16962) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:10:51.347+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:10:51.348+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:10:51.348+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:10:51.357+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:10:51.367+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:10:51.367+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:10:51.378+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:10:51.378+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:10:51.399+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.065 seconds
+[2023-12-06T18:11:27.419+0500] {processor.py:157} INFO - Started process (PID=17022) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:11:27.428+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:11:27.429+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:11:27.429+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:11:27.437+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:11:27.447+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:11:27.447+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:11:27.458+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:11:27.458+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:11:27.470+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.055 seconds
+[2023-12-06T18:12:03.294+0500] {processor.py:157} INFO - Started process (PID=17135) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:12:03.295+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:12:03.297+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:12:03.296+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:12:03.304+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:12:03.313+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:12:03.313+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:12:03.323+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:12:03.323+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:12:03.335+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.045 seconds
+[2023-12-06T18:12:35.072+0500] {processor.py:157} INFO - Started process (PID=17178) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:12:35.073+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:12:35.074+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:12:35.073+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:12:35.078+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:12:35.086+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:12:35.086+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:12:35.097+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:12:35.097+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:12:35.109+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.039 seconds
+[2023-12-06T18:13:05.694+0500] {processor.py:157} INFO - Started process (PID=17264) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:13:05.703+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:13:05.703+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:13:05.703+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:13:05.706+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:13:05.715+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:13:05.715+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:13:05.725+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:13:05.725+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:13:05.737+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.045 seconds
+[2023-12-06T18:13:35.844+0500] {processor.py:157} INFO - Started process (PID=17310) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:13:35.852+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:13:35.853+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:13:35.852+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:13:35.856+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:13:35.864+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:13:35.864+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:13:35.874+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:13:35.874+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:13:35.889+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.047 seconds
+[2023-12-06T18:14:09.073+0500] {processor.py:157} INFO - Started process (PID=17360) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:14:09.081+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:14:09.082+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:14:09.082+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:14:09.085+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:14:09.094+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:14:09.093+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:14:09.107+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:14:09.107+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:14:09.121+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.049 seconds
+[2023-12-06T18:14:40.777+0500] {processor.py:157} INFO - Started process (PID=17400) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:14:40.785+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:14:40.786+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:14:40.786+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:14:40.789+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:14:40.797+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:14:40.797+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:14:40.807+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:14:40.807+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:14:40.819+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.044 seconds
+[2023-12-06T18:15:14.634+0500] {processor.py:157} INFO - Started process (PID=17482) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:15:14.635+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:15:14.635+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:15:14.635+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:15:14.639+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:15:14.648+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:15:14.648+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:15:14.658+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:15:14.658+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:15:14.670+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.038 seconds
+[2023-12-06T18:15:47.522+0500] {processor.py:157} INFO - Started process (PID=17563) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:15:47.531+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:15:47.532+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:15:47.532+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:15:47.538+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:15:47.545+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:15:47.545+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:15:47.555+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:15:47.555+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:15:47.567+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.046 seconds
+[2023-12-06T18:16:21.488+0500] {processor.py:157} INFO - Started process (PID=17615) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:16:21.497+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:16:21.498+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:16:21.498+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:16:21.506+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:16:21.516+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:16:21.516+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:16:21.527+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:16:21.526+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:16:21.539+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T18:16:57.443+0500] {processor.py:157} INFO - Started process (PID=17665) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:16:57.444+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:16:57.445+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:16:57.445+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:16:57.452+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:16:57.462+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:16:57.462+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:16:57.473+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:16:57.473+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:16:57.485+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.044 seconds
+[2023-12-06T18:17:30.494+0500] {processor.py:157} INFO - Started process (PID=17713) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:17:30.495+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:17:30.496+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:17:30.496+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:17:30.503+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:17:30.514+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:17:30.513+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:17:30.523+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:17:30.523+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:17:30.535+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.044 seconds
+[2023-12-06T18:18:05.578+0500] {processor.py:157} INFO - Started process (PID=17769) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:18:05.586+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:18:05.587+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:18:05.586+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:18:05.590+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:18:05.598+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:18:05.598+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:18:05.608+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:18:05.608+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:18:05.620+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.044 seconds
+[2023-12-06T18:18:40.111+0500] {processor.py:157} INFO - Started process (PID=17822) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:18:40.112+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:18:40.113+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:18:40.113+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:18:40.116+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:18:40.126+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:18:40.126+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:18:40.136+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:18:40.136+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:18:40.148+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.038 seconds
+[2023-12-06T18:18:55.341+0500] {processor.py:157} INFO - Started process (PID=17846) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:18:55.349+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:18:55.351+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:18:55.350+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:18:55.355+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:18:55.364+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:18:55.363+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:18:55.374+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:18:55.374+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:18:55.386+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.047 seconds
+[2023-12-06T18:19:06.663+0500] {processor.py:157} INFO - Started process (PID=17861) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:19:06.664+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:19:06.664+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:19:06.664+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:19:06.670+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:19:06.681+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:19:06.681+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:19:06.692+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:19:06.691+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:19:06.704+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.043 seconds
+[2023-12-06T18:20:02.260+0500] {processor.py:157} INFO - Started process (PID=18083) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:20:02.260+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:20:02.261+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:20:02.261+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:20:02.264+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:20:02.273+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:20:02.273+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:20:02.284+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:20:02.284+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:20:02.296+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.038 seconds
+[2023-12-06T18:20:33.514+0500] {processor.py:157} INFO - Started process (PID=18158) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:20:33.523+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:20:33.524+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:20:33.524+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:20:33.533+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:20:33.544+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:20:33.543+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:20:33.554+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:20:33.554+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:20:33.565+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T18:21:07.945+0500] {processor.py:157} INFO - Started process (PID=18208) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:21:07.954+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:21:07.955+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:21:07.955+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:21:07.961+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:21:07.968+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:21:07.968+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:21:07.978+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:21:07.978+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:21:07.990+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.047 seconds
+[2023-12-06T18:21:42.940+0500] {processor.py:157} INFO - Started process (PID=18245) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:21:42.948+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:21:42.950+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:21:42.949+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:21:42.958+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:21:42.969+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:21:42.968+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:21:42.978+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:21:42.978+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:21:42.990+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T18:22:18.079+0500] {processor.py:157} INFO - Started process (PID=18292) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:22:18.080+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:22:18.080+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:22:18.080+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:22:18.083+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:22:18.091+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:22:18.091+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:22:18.101+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:22:18.101+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:22:18.113+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.037 seconds
+[2023-12-06T18:22:54.068+0500] {processor.py:157} INFO - Started process (PID=18338) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:22:54.077+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:22:54.078+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:22:54.077+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:22:54.087+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:22:54.098+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:22:54.097+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:22:54.107+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:22:54.107+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:22:54.126+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.060 seconds
+[2023-12-06T18:23:28.319+0500] {processor.py:157} INFO - Started process (PID=18389) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:23:28.327+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:23:28.328+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:23:28.328+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:23:28.336+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:23:28.347+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:23:28.347+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:23:28.357+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:23:28.357+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:23:28.376+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.060 seconds
+[2023-12-06T18:24:04.033+0500] {processor.py:157} INFO - Started process (PID=18430) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:24:04.042+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:24:04.043+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:24:04.042+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:24:04.051+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:24:04.062+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:24:04.061+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:24:04.072+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:24:04.072+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:24:04.084+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:24:39.648+0500] {processor.py:157} INFO - Started process (PID=18478) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:24:39.657+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:24:39.658+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:24:39.658+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:24:39.666+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:24:39.677+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:24:39.677+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:24:39.688+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:24:39.688+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:24:39.705+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.060 seconds
+[2023-12-06T18:25:12.378+0500] {processor.py:157} INFO - Started process (PID=18528) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:25:12.386+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:25:12.388+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:25:12.387+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:25:12.396+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:25:12.407+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:25:12.407+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:25:12.417+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:25:12.417+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:25:12.429+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T18:25:45.590+0500] {processor.py:157} INFO - Started process (PID=18562) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:25:45.599+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:25:45.600+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:25:45.600+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:25:45.608+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:25:45.619+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:25:45.619+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:25:45.629+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:25:45.629+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:25:45.641+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.055 seconds
+[2023-12-06T18:26:22.590+0500] {processor.py:157} INFO - Started process (PID=18611) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:26:22.599+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:26:22.600+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:26:22.599+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:26:22.608+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:26:22.618+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:26:22.618+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:26:22.628+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:26:22.628+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:26:22.640+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T18:26:56.498+0500] {processor.py:157} INFO - Started process (PID=18656) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:26:56.506+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:26:56.507+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:26:56.507+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:26:56.515+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:26:56.526+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:26:56.526+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:26:56.536+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:26:56.536+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:26:56.548+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:27:29.047+0500] {processor.py:157} INFO - Started process (PID=18700) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:27:29.056+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:27:29.057+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:27:29.056+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:27:29.065+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:27:29.076+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:27:29.076+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:27:29.086+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:27:29.086+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:27:29.098+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.055 seconds
+[2023-12-06T18:28:03.423+0500] {processor.py:157} INFO - Started process (PID=18740) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:28:03.431+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:28:03.433+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:28:03.432+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:28:03.441+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:28:03.451+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:28:03.451+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:28:03.462+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:28:03.461+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:28:03.473+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T18:28:37.658+0500] {processor.py:157} INFO - Started process (PID=18786) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:28:37.665+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:28:37.666+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:28:37.665+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:28:37.674+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:28:37.684+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:28:37.684+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:28:37.695+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:28:37.695+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:28:37.717+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.062 seconds
+[2023-12-06T18:29:13.025+0500] {processor.py:157} INFO - Started process (PID=18833) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:29:13.034+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:29:13.035+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:29:13.034+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:29:13.043+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:29:13.053+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:29:13.053+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:29:13.064+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:29:13.063+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:29:13.075+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T18:29:45.315+0500] {processor.py:157} INFO - Started process (PID=18869) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:29:45.323+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:29:45.325+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:29:45.324+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:29:45.333+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:29:45.344+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:29:45.344+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:29:45.354+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:29:45.354+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:29:45.366+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:30:21.086+0500] {processor.py:157} INFO - Started process (PID=18922) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:30:21.087+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:30:21.088+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:30:21.088+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:30:21.093+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:30:21.101+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:30:21.101+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:30:21.111+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:30:21.111+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:30:21.122+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.040 seconds
+[2023-12-06T18:30:57.299+0500] {processor.py:157} INFO - Started process (PID=18971) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:30:57.308+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:30:57.309+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:30:57.308+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:30:57.317+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:30:57.328+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:30:57.328+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:30:57.338+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:30:57.338+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:30:57.350+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.055 seconds
+[2023-12-06T18:31:29.404+0500] {processor.py:157} INFO - Started process (PID=19019) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:31:29.413+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:31:29.414+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:31:29.413+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:31:29.420+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:31:29.428+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:31:29.428+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:31:29.439+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:31:29.439+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:31:29.450+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.048 seconds
+[2023-12-06T18:32:00.353+0500] {processor.py:157} INFO - Started process (PID=19063) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:32:00.354+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:32:00.354+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:32:00.354+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:32:00.357+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:32:00.365+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:32:00.365+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:32:00.375+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:32:00.375+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:32:00.391+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.040 seconds
+[2023-12-06T18:32:35.058+0500] {processor.py:157} INFO - Started process (PID=19108) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:32:35.067+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:32:35.068+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:32:35.067+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:32:35.076+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:32:35.087+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:32:35.087+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:32:35.097+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:32:35.097+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:32:35.114+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.060 seconds
+[2023-12-06T18:33:10.158+0500] {processor.py:157} INFO - Started process (PID=19157) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:33:10.159+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:33:10.160+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:33:10.159+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:33:10.167+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:33:10.177+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:33:10.177+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:33:10.187+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:33:10.187+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:33:10.199+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.045 seconds
+[2023-12-06T18:33:48.665+0500] {processor.py:157} INFO - Started process (PID=19206) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:33:48.673+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:33:48.675+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:33:48.674+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:33:48.682+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:33:48.693+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:33:48.693+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:33:48.704+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:33:48.703+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:33:48.715+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T18:34:24.691+0500] {processor.py:157} INFO - Started process (PID=19254) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:34:24.699+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:34:24.700+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:34:24.700+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:34:24.709+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:34:24.720+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:34:24.720+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:34:24.730+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:34:24.730+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:34:24.741+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T18:35:02.089+0500] {processor.py:157} INFO - Started process (PID=19473) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:35:02.097+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:35:02.097+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:35:02.097+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:35:02.101+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:35:02.109+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:35:02.109+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:35:02.121+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:35:02.121+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:35:02.134+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.047 seconds
+[2023-12-06T18:35:35.225+0500] {processor.py:157} INFO - Started process (PID=19534) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:35:35.234+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:35:35.235+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:35:35.235+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:35:35.243+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:35:35.254+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:35:35.254+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:35:35.264+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:35:35.264+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:35:35.275+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:36:10.040+0500] {processor.py:157} INFO - Started process (PID=19582) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:36:10.041+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:36:10.041+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:36:10.041+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:36:10.044+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:36:10.052+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:36:10.052+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:36:10.062+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:36:10.062+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:36:10.074+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.036 seconds
+[2023-12-06T18:36:42.955+0500] {processor.py:157} INFO - Started process (PID=19631) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:36:42.963+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:36:42.964+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:36:42.964+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:36:42.973+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:36:42.983+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:36:42.983+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:36:42.994+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:36:42.994+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:36:43.007+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:37:14.863+0500] {processor.py:157} INFO - Started process (PID=19715) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:37:14.871+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:37:14.872+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:37:14.872+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:37:14.880+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:37:14.891+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:37:14.891+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:37:14.901+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:37:14.901+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:37:14.913+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.052 seconds
+[2023-12-06T18:37:46.848+0500] {processor.py:157} INFO - Started process (PID=19834) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:37:46.855+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:37:46.855+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:37:46.855+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:37:46.859+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:37:46.868+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:37:46.868+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:37:46.880+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:37:46.880+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:37:46.893+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.046 seconds
+[2023-12-06T18:38:23.942+0500] {processor.py:157} INFO - Started process (PID=19940) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:38:23.951+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:38:23.952+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:38:23.951+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:38:23.955+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:38:23.965+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:38:23.965+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:38:23.977+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:38:23.977+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:38:23.991+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.050 seconds
+[2023-12-06T18:38:57.408+0500] {processor.py:157} INFO - Started process (PID=20030) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:38:57.416+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:38:57.418+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:38:57.417+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:38:57.425+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:38:57.436+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:38:57.436+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:38:57.447+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:38:57.447+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:38:57.458+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T18:39:29.974+0500] {processor.py:157} INFO - Started process (PID=20134) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:39:29.975+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:39:29.976+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:39:29.976+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:39:29.979+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:39:29.987+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:39:29.987+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:39:29.997+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:39:29.997+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:39:30.009+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.036 seconds
+[2023-12-06T18:40:03.632+0500] {processor.py:157} INFO - Started process (PID=20230) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:40:03.633+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:40:03.633+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:40:03.633+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:40:03.637+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:40:03.647+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:40:03.646+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:40:03.657+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:40:03.656+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:40:03.668+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.038 seconds
+[2023-12-06T18:40:37.130+0500] {processor.py:157} INFO - Started process (PID=20316) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:40:37.139+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:40:37.140+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:40:37.140+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:40:37.148+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:40:37.159+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:40:37.158+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:40:37.169+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:40:37.169+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:40:37.185+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.059 seconds
+[2023-12-06T18:41:12.087+0500] {processor.py:157} INFO - Started process (PID=20365) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:41:12.088+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:41:12.089+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:41:12.088+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:41:12.092+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:41:12.099+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:41:12.099+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:41:12.109+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:41:12.109+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:41:12.121+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.036 seconds
+[2023-12-06T18:41:47.123+0500] {processor.py:157} INFO - Started process (PID=20406) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:41:47.131+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:41:47.133+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:41:47.132+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:41:47.141+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:41:47.152+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:41:47.152+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:41:47.162+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:41:47.162+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:41:47.182+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.062 seconds
+[2023-12-06T18:42:22.885+0500] {processor.py:157} INFO - Started process (PID=20453) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:42:22.894+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:42:22.895+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:42:22.894+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:42:22.902+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:42:22.914+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:42:22.914+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:42:22.924+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:42:22.924+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:42:22.935+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T18:42:56.581+0500] {processor.py:157} INFO - Started process (PID=20499) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:42:56.589+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:42:56.591+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:42:56.590+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:42:56.599+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:42:56.610+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:42:56.610+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:42:56.620+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:42:56.620+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:42:56.632+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T18:43:28.708+0500] {processor.py:157} INFO - Started process (PID=20546) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:43:28.716+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:43:28.717+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:43:28.717+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:43:28.726+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:43:28.736+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:43:28.736+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:43:28.747+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:43:28.746+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:43:28.758+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T18:44:03.498+0500] {processor.py:157} INFO - Started process (PID=20594) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:44:03.507+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:44:03.508+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:44:03.508+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:44:03.513+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:44:03.521+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:44:03.521+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:44:03.531+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:44:03.531+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:44:03.543+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.048 seconds
+[2023-12-06T18:44:41.125+0500] {processor.py:157} INFO - Started process (PID=20641) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:44:41.134+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:44:41.135+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:44:41.134+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:44:41.143+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:44:41.154+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:44:41.154+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:44:41.164+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:44:41.164+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:44:41.176+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:45:15.943+0500] {processor.py:157} INFO - Started process (PID=20693) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:45:15.952+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:45:15.953+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:45:15.953+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:45:15.961+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:45:15.972+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:45:15.972+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:45:15.982+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:45:15.982+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:45:15.994+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.055 seconds
+[2023-12-06T18:45:52.162+0500] {processor.py:157} INFO - Started process (PID=20731) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:45:52.170+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:45:52.172+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:45:52.171+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:45:52.180+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:45:52.191+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:45:52.191+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:45:52.201+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:45:52.201+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:45:52.213+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:46:28.394+0500] {processor.py:157} INFO - Started process (PID=20778) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:46:28.402+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:46:28.403+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:46:28.403+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:46:28.408+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:46:28.416+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:46:28.416+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:46:28.427+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:46:28.426+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:46:28.516+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.125 seconds
+[2023-12-06T18:47:04.810+0500] {processor.py:157} INFO - Started process (PID=20828) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:47:04.818+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:47:04.820+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:47:04.819+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:47:04.825+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:47:04.833+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:47:04.833+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:47:04.843+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:47:04.843+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:47:04.855+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.047 seconds
+[2023-12-06T18:47:39.670+0500] {processor.py:157} INFO - Started process (PID=20873) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:47:39.678+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:47:39.680+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:47:39.679+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:47:39.688+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:47:39.699+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:47:39.699+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:47:39.779+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:47:39.779+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:47:39.798+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.132 seconds
+[2023-12-06T18:48:19.026+0500] {processor.py:157} INFO - Started process (PID=20922) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:48:19.035+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:48:19.036+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:48:19.036+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:48:19.044+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:48:19.054+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:48:19.054+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:48:19.064+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:48:19.064+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:48:19.076+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:49:00.825+0500] {processor.py:157} INFO - Started process (PID=20973) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:49:00.834+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:49:00.835+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:49:00.835+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:49:00.844+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:49:00.855+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:49:00.855+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:49:00.935+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:49:00.935+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:49:00.946+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.122 seconds
+[2023-12-06T18:49:41.510+0500] {processor.py:157} INFO - Started process (PID=21025) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:49:41.519+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:49:41.520+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:49:41.520+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:49:41.528+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:49:41.539+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:49:41.539+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:49:41.550+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:49:41.550+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:49:41.562+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:50:20.921+0500] {processor.py:157} INFO - Started process (PID=21075) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:50:20.922+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:50:20.923+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:50:20.922+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:50:20.930+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:50:20.939+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:50:20.939+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:50:21.019+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:50:21.019+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:50:21.030+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.111 seconds
+[2023-12-06T18:51:01.772+0500] {processor.py:157} INFO - Started process (PID=21126) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:51:01.781+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:51:01.782+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:51:01.782+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:51:01.791+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:51:01.802+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:51:01.801+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:51:01.812+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:51:01.812+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:51:01.823+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:51:40.112+0500] {processor.py:157} INFO - Started process (PID=21176) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:51:40.121+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:51:40.122+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:51:40.122+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:51:40.131+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:51:40.142+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:51:40.142+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:51:40.152+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:51:40.152+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:51:40.164+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:52:16.385+0500] {processor.py:157} INFO - Started process (PID=21228) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:52:16.393+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:52:16.395+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:52:16.394+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:52:16.403+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:52:16.414+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:52:16.414+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:52:16.424+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:52:16.424+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:52:16.435+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.053 seconds
+[2023-12-06T18:52:50.163+0500] {processor.py:157} INFO - Started process (PID=21265) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:52:50.172+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:52:50.173+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:52:50.173+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:52:50.182+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:52:50.192+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:52:50.192+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:52:50.202+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:52:50.202+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:52:50.224+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.063 seconds
+[2023-12-06T18:53:26.112+0500] {processor.py:157} INFO - Started process (PID=21311) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:53:26.121+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:53:26.122+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:53:26.121+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:53:26.127+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:53:26.136+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:53:26.136+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:53:26.146+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:53:26.146+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:53:26.166+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.056 seconds
+[2023-12-06T18:54:01.572+0500] {processor.py:157} INFO - Started process (PID=21360) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:54:01.581+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:54:01.582+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:54:01.581+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:54:01.591+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:54:01.601+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:54:01.601+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:54:01.611+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:54:01.611+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:54:01.623+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:54:45.774+0500] {processor.py:157} INFO - Started process (PID=21419) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:54:45.782+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:54:45.784+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:54:45.783+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:54:45.792+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:54:45.803+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:54:45.803+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:54:45.813+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:54:45.813+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:54:45.825+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:55:21.710+0500] {processor.py:157} INFO - Started process (PID=21469) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:55:21.718+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:55:21.720+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:55:21.719+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:55:21.725+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:55:21.733+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:55:21.733+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:55:21.743+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:55:21.743+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:55:21.754+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.047 seconds
+[2023-12-06T18:55:56.788+0500] {processor.py:157} INFO - Started process (PID=21517) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:55:56.796+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:55:56.798+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:55:56.797+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:55:56.803+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:55:56.811+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:55:56.810+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:55:56.821+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:55:56.821+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:55:56.833+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.047 seconds
+[2023-12-06T18:56:27.577+0500] {processor.py:157} INFO - Started process (PID=21560) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:56:27.586+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:56:27.587+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:56:27.586+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:56:27.592+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:56:27.600+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:56:27.600+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:56:27.610+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:56:27.610+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:56:27.622+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.046 seconds
+[2023-12-06T18:57:01.904+0500] {processor.py:157} INFO - Started process (PID=21606) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:57:01.905+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:57:01.905+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:57:01.905+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:57:01.908+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:57:01.916+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:57:01.916+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:57:01.926+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:57:01.926+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:57:01.938+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.036 seconds
+[2023-12-06T18:57:37.030+0500] {processor.py:157} INFO - Started process (PID=21646) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:57:37.038+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:57:37.040+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:57:37.039+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:57:37.047+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:57:37.058+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:57:37.058+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:57:37.068+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:57:37.068+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:57:37.088+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.060 seconds
+[2023-12-06T18:58:10.636+0500] {processor.py:157} INFO - Started process (PID=21693) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:58:10.644+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:58:10.645+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:58:10.645+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:58:10.654+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:58:10.664+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:58:10.664+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:58:10.675+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:58:10.674+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:58:10.687+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
+[2023-12-06T18:58:45.511+0500] {processor.py:157} INFO - Started process (PID=21739) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:58:45.511+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:58:45.512+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:58:45.511+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:58:45.516+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:58:45.525+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:58:45.525+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:58:45.536+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:58:45.535+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:58:45.547+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.038 seconds
+[2023-12-06T18:59:18.585+0500] {processor.py:157} INFO - Started process (PID=21779) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:59:18.586+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:59:18.586+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:59:18.586+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:59:18.592+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:59:18.602+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:59:18.602+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:59:18.613+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:59:18.613+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:59:18.625+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.043 seconds
+[2023-12-06T18:59:54.746+0500] {processor.py:157} INFO - Started process (PID=21826) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:59:54.755+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T18:59:54.756+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:59:54.755+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:59:54.764+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T18:59:54.775+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:59:54.775+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T18:59:54.785+0500] {logging_mixin.py:154} INFO - [2023-12-06T18:59:54.785+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T18:59:54.805+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.062 seconds
+[2023-12-06T19:00:33.842+0500] {processor.py:157} INFO - Started process (PID=22060) to work on /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T19:00:33.851+0500] {processor.py:829} INFO - Processing file /home/ahsan/airflow/dags/sample_1.py for tasks to queue
+[2023-12-06T19:00:33.853+0500] {logging_mixin.py:154} INFO - [2023-12-06T19:00:33.852+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T19:00:33.860+0500] {processor.py:839} INFO - DAG(s) dict_keys(['scrapy_airflow_integration']) retrieved from /home/ahsan/airflow/dags/sample_1.py
+[2023-12-06T19:00:33.870+0500] {logging_mixin.py:154} INFO - [2023-12-06T19:00:33.870+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-06T19:00:33.881+0500] {logging_mixin.py:154} INFO - [2023-12-06T19:00:33.880+0500] {dag.py:3722} INFO - Setting next_dagrun for scrapy_airflow_integration to 2023-12-06T00:00:00+00:00, run_after=2023-12-07T00:00:00+00:00
+[2023-12-06T19:00:33.892+0500] {processor.py:179} INFO - Processing /home/ahsan/airflow/dags/sample_1.py took 0.054 seconds
